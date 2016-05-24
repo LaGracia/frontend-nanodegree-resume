@@ -97,11 +97,11 @@ ul {
 
 /* image placed in css directory because it cannot be fetched from images */
 .dark-gray {
-  background: url('chalkboard-background.jpg');
+  background: url('../images/chalkboard-background.jpg');
 }
 
 #header {
-  background: url('chalkboard-background.jpg');
+  background: url('../images/chalkboard-background.jpg');
   padding-bottom: 30px;
 }
 
